@@ -12,7 +12,7 @@ pip install requests
 
 ## Usage
 
-Just run `himawari8downloader.py` with argument *fout*, *scale*.
+Just run `himawari.py'. No args.
 
 *fout* is the path of the output image file.
 
@@ -22,11 +22,8 @@ Just run `himawari8downloader.py` with argument *fout*, *scale*.
 For example:
 
 ```python
-python himawari8downloader.py earth.png 2
+python himawari.py
 ```
-
-This will create an image file named *earth.png* in the current directory, and the image size is 1100×1100.
-
 ## Result
 
 ![Result Image](earth.png)
