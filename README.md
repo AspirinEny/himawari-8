@@ -12,7 +12,7 @@ pip install requests
 
 ## Usage
 
-Just run `himawari.py'. No args.
+Just run `himawari.py'. With args *fout* and *scale*
 
 *fout* is the path of the output image file.
 
@@ -22,7 +22,7 @@ Just run `himawari.py'. No args.
 For example:
 
 ```python
-python himawari.py
+python himawari.py earth.png 2
 ```
 ## Result
 
