@@ -1,14 +1,15 @@
-# Himawari8 Image Downloader
+# Himawari 8 Image Downloader
 
 **himawari8downloader** is a tool to download near real time earth images taken by [**Himawari8**](https://en.wikipedia.org/wiki/Himawari_8) .
 
-## Dependency
-**himawari8downloader** depends on `PIL` and `Requests`:
+## Update
+ - Fixed stuff, now works on python 3.7 and above.
+ 
+## TODO
+ - GUI, or just a GUI wrapper for the .py file.
 
-```bash
-pip install Pillow
-pip install requests
-```
+## Dependency
+`PIL` and `Requests`
 
 ## Usage
 
