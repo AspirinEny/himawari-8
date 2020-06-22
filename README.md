@@ -28,3 +28,5 @@ python himawari.py earth.png 2
 ## Result
 
 ![Result Image](earth.png)
+
+forked from liuwons/himawari8downloader
