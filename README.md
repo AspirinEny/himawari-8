@@ -3,10 +3,7 @@
 **himawari8downloader** is a tool to download near real time earth images taken by [**Himawari8**](https://en.wikipedia.org/wiki/Himawari_8) .
 
 ## Update
- - Fixed stuff, now works on python 3.7 and above.
- 
-## TODO
- - GUI, or just a GUI wrapper for the .py file.
+ - Fixed stuff, now works on python 3.12 and above.
 
 ## Dependency
 `PIL` and `Requests`
@@ -28,5 +25,3 @@ python himawari.py earth.png 2
 ## Result
 
 ![Result Image](earth.png)
-
-forked from liuwons/himawari8downloader
