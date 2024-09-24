@@ -1,6 +1,6 @@
 # Himawari 8 Image Downloader
 
-**himawari8downloader** is a tool to download near real time earth images taken by [**Himawari8**](https://en.wikipedia.org/wiki/Himawari_8) .
+**Himawari 8 Image Downloader** is a tool to download near real time earth images taken by [**Himawari8**](https://en.wikipedia.org/wiki/Himawari_8) .
 
 ## Update
  - Fixed stuff, now works on python 3.12 and above.
