@@ -24,4 +24,4 @@ python himawari.py earth.png 2
 ```
 ## Result
 
-![Result Image](earth.png)
+![Result Image](preview.png)
